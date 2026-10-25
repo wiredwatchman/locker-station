@@ -4,7 +4,7 @@ A Raspberry Pi Pico W project that runs a Wi-Fi access point and a web-based key
 
 ## Video
 
-[Watch the build video on YouTube](PASTE_YOUTUBE_LINK_HERE)
+[https://youtu.be/bO4WF4EHszQ?si=DD2BQw904iKUgMGK)
 
 ## Story
 
