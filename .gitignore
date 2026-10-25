@@ -1,0 +1,10 @@
+# Logs written by the Pico at runtime
+code_entries.txt
+relay_log.txt
+timer_config.json
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
